@@ -1,0 +1,97 @@
+FS Label,Structure,Volume
+0,Background,8094.339480989456
+2,Left Cortical White Matter,201.8901464099884
+4,Left Lateral Ventricle,7.225499958992004
+5,Left Inferior Lateral Ventricle,0.3119684638977051
+7,Left Cerebellar White Matter,12.53672222328186
+8,Left Cerebellar Cortex,49.007223994255064
+10,Left Thalamus,6.6832301683425905
+11,Left Caudate,3.2875106058120727
+12,Left Putamen,4.699127071380615
+13,Left Pallidum,2.1441706857681275
+14,3rd-Ventricle,1.2454238414764405
+15,4th-Venticle,1.4745001611709596
+16,Brain Stem,17.97126186466217
+17,Left Hippocampus,4.361025123596192
+18,Left Amygdala,1.756660120010376
+24,CSF,1.2903407669067384
+26,Left Accumbens,0.5777949953079223
+28,Left Ventral DC,3.9796395931243898
+31,Left Choroid Plexus,0.8701633462905884
+41,Right Cortical White Matter,208.2997916688919
+43,Right Lateral Ventricle,6.105435173034668
+44,Right Inferior Lateral Ventricle,0.3883272371292114
+46,Right Cerebellar White Matter,12.587355848312377
+47,Right Cerebellar Cortex,50.5699246635437
+49,Right Thalamus,6.68649685382843
+50,Right Caudate,3.454928236961365
+51,Right Putamen,4.913094970703125
+52,Right Pallidum,2.0943537321090697
+53,Right Hippocampus,4.7285272407531735
+54,Right Amygdala,1.7305266361236573
+58,Right Accumbens,0.563503246307373
+60,Right Ventral DC,4.205449227333069
+63,Right Choroid Plexus ,0.9869473524093628
+77,WM-hypointensities,1.483483546257019
+1002,Left caudalanteriorcingulate,2.609673367500305
+1003,Left caudalmiddlefrontal,5.7534498119354245
+1005,Left cuneus ,4.025781525611878
+1006,Left entorhinal,2.50554776763916
+1007,Left fusiform,7.594227083206177
+1008,Left inferiorparietal,10.204308786392213
+1009,Left inferiortemporal,11.211672923088074
+1010,Left isthmuscingulate,2.434089022636414
+1011,Left lateraloccipital,12.521613802909851
+1012,Left lateralorbitofrontal,7.257758478164673
+1013,Left lingual,6.203844073295594
+1014,Left medialorbitofrontal,3.805688591003418
+1015,Left middletemporal,11.902985239028931
+1016,Left parahippocampal,2.529639573097229
+1017,Left paracentral,2.7358490943908693
+1018,Left parsopercularis,3.6733878288269044
+1019,Left parsorbitalis,1.986961446762085
+1020,Left parstriangularis,3.2491270513534545
+1021,Left pericalcarine,1.9939031534194946
+1022,Left postcentral,9.674697402000428
+1023,Left posteriorcingulate,3.0237257528305053
+1024,Left precentral,10.770262046813965
+1025,Left precuneus,8.089538269996643
+1026,Left rostralanteriorcingulate,3.101717868804932
+1027,Left rostralmiddlefrontal,10.133258377075196
+1028,Left superiorfrontal,19.63318810558319
+1029,Left superiorparietal,8.105055026054382
+1030,Left superiortemporal,16.10067608833313
+1031,Left supramarginal,9.034018711090088
+1034,Left transversetemporal,0.9767389602661133
+1035,Left insula,5.3055055646896365
+2002,Right caudalanteriorcingulate,1.8509856634140016
+2003,Right caudalmiddlefrontal,5.892283945083618
+2005,Right cuneus ,4.454533995628357
+2006,Right entorhinal,1.9636863126754762
+2007,Right fusiform,5.799591744422913
+2008,Right inferiorparietal,14.20395682811737
+2009,Right inferiortemporal,11.605308524131775
+2010,Right isthmuscingulate,2.5394396295547486
+2011,Right lateraloccipital,13.728245754241943
+2012,Right lateralorbitofrontal,7.5305267162323
+2013,Right lingual,7.898028833389282
+2014,Right medialorbitofrontal,3.3332442026138307
+2015,Right middletemporal,13.264784750938416
+2016,Right parahippocampal,2.280963140487671
+2017,Right paracentral,3.3936778841018675
+2018,Right parsopercularis,3.177668306350708
+2019,Right parsorbitalis,1.7288932933807373
+2020,Right parstriangularis,2.7995494613647463
+2021,Right pericalcarine,2.525964551925659
+2022,Right postcentral,8.516249061584473
+2023,Right posteriorcingulate,3.0890594625473025
+2024,Right precentral,10.87234596824646
+2025,Right precuneus,8.461123744010925
+2026,Right rostralanteriorcingulate,1.7305266361236573
+2027,Right rostralmiddlefrontal,9.934807233810425
+2028,Right superiorfrontal,24.089763779640197
+2029,Right superiorparietal,8.78125892162323
+2030,Right superiortempooral,14.513066942214966
+2031,Right supramarginal,7.697944347381592
+2034,Right transversetemporal,0.523486349105835
+2035,Right insula,5.940467555999756
